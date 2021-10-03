@@ -2,7 +2,8 @@
 
   Notas de aula: https://github.com/luiz-classrooms/pf-lecture-notes
 
-  Implemente as atividads propostas nos laboratórios ?? a ??.
+  Implemente as atividads propostas nos laboratórios 10, 11 e 12.
 
-  Implemente as atividades propostas no trabalho ??.
+  Implemente as atividades propostas em dois dos temas do trabalho 3.
   
+  Dentre as questões 32 a 49 das notas de aula, escolha 8 e as resolva.
