@@ -1,0 +1,8 @@
+* Entrega
+
+  Notas de aula: https://github.com/luiz-classrooms/pf-lecture-notes
+
+  Implemente as atividads propostas nos laboratórios ?? a ??.
+
+  Implemente as atividades propostas no trabalho ??.
+  
